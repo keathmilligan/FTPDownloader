@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="FTPDownloader.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FTPDownloader"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="240" Width="740">
+
+    <Grid Margin="0,0,0,10">
+        <TextBlock HorizontalAlignment="Left" Margin="28,24,0,0" TextWrapping="Wrap" Text="Download URI:" VerticalAlignment="Top" Height="19" Width="105" FocusVisualPrimaryBrush="#FF915353" FontSize="12" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="28,69,0,0" TextWrapping="Wrap" Text="Download Path:" VerticalAlignment="Top" Height="19" Width="105" FocusVisualPrimaryBrush="#FF915353" FontSize="12" Foreground="White"/>
+        <TextBox x:Name="downloadURI" HorizontalAlignment="Left" Margin="128,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="585" IsReadOnly="True" IsTabStop="False"/>
+        <TextBox x:Name="downloadPath" HorizontalAlignment="Left" Margin="128,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="585" IsReadOnly="True" IsTabStop="False"/>
+        <ProgressBar x:Name="downloadProgress" HorizontalAlignment="Center" Height="10" Width="686" Margin="0,154,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="381,188,0,0" TextWrapping="Wrap" Text="Leave window open to download more files via FTP/S." VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBlock x:Name="downloadStatus" HorizontalAlignment="Left" Margin="28,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>

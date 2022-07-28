@@ -1,0 +1,7 @@
+.vs/
+FTPDownloader/bin/
+FTPDownloader/obj/
+FTPDownloader/AppPackages/
+FTPDownloader/BundleArtifacts/
+*.csproj.user
+*.pfx

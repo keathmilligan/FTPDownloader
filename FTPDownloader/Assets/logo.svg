@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\keath\ws\FTPDownloader\FTPDownloader\Assets\LockScreenLogo.scale-200.png"
+   inkscape:export-xdpi="7.5500002"
+   inkscape:export-ydpi="7.5500002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="324"
+     inkscape:cy="355.75"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,200"
+       orientation="0,755.90551"
+       id="guide833" />
+    <sodipodi:guide
+       position="200,200"
+       orientation="755.90551,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="200,0"
+       orientation="0,-755.90551"
+       id="guide837" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-755.90551,0"
+       id="guide839" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid841"
+       originx="0"
+       originy="0"
+       units="mm"
+       spacingx="0.99999999"
+       spacingy="0.99999999" />
+    <sodipodi:guide
+       position="99.999998,235"
+       orientation="1,0"
+       id="guide843" />
+    <sodipodi:guide
+       position="79.999999,100"
+       orientation="0,-1"
+       id="guide845" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="font-variation-settings:'wght' 700;fill:#06a000;stroke-width:59.1596;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="path851"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="0"
+       sodipodi:cy="226.77165"
+       sodipodi:r1="346.91452"
+       sodipodi:r2="173.45726"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:arg2="0.52359878"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 300.43679,53.314391 150.21839,313.50028 1.5270141e-6,573.68617 -150.21839,313.50028 -300.43679,53.314393 7.63507e-7,53.314392 Z"
+       transform="matrix(0.33284872,0,0,0.19314602,100,89.194797)"
+       inkscape:transform-center-y="16.751288"
+       inkscape:transform-center-x="-3.8487226e-06" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#06a000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect955"
+       width="200"
+       height="10"
+       x="0"
+       y="80" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#06a000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect955-3"
+       width="200"
+       height="10"
+       x="-1.9999982e-06"
+       y="60" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.3463px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#68ff62;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       x="78.56179"
+       y="67.181557"
+       id="text1611"
+       transform="scale(1.3089176,0.76399004)"><tspan
+         sodipodi:role="line"
+         id="tspan1609"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.3463px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:15;fill:#68ff62;fill-opacity:1"
+         x="78.561798"
+         y="67.181557">FTP</tspan></text>
+  </g>
+</svg>
